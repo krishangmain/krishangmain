@@ -68,7 +68,7 @@
 - 💬 Ask me about What's New in Tech.
 - 🔭 I’m currently working on Web3 and Transformer Models. 
 - 👯 I’m looking to collaborate on Deep Learning Projects and ML Reasearch.
-- 📫 How to reach me: [virmanikirshang1710@gmail.com](mailto:virmanikrishang1710+github@gmail.com)
+- 📫 How to reach me:  <a href="virmanikrishang1710+github@gmail.com">virmanikrishang1710@gmail.com</a>
 - 😄 Pronouns: he/him
 
 
