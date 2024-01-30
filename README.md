@@ -53,7 +53,7 @@
 <p align="left">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+  
 
 
 
@@ -69,12 +69,6 @@
 - 🔭 I’m currently working on Web3 and Transformer Models. 
 - 👯 I’m looking to collaborate on Deep Learning Projects and ML Reasearch.
 - 📫 How to reach me:  <a href="virmanikrishang1710+github@gmail.com">virmanikrishang1710@gmail.com</a>
-
-
-
-
-
-![snake gif](https://github.com/krishangmain/krishangmain/blob/output/github-contribution-grid-snake.gif)
 
 
 
