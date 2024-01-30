@@ -12,8 +12,8 @@
 <a href="https://www.linkedin.com/in/krishangvirmani/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Krishang Virmani" /></a>
 <a href="https://stackoverflow.com/users/23311149/krishang-virmani" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Krishang Virmani" /></a>
 <a href="https://www.kaggle.com/krishangvirmani" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Krishang Virmani" /></a>
-<a href="https://leetcode.com/virmanikrishang1710/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Krishang Virmani" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Krishang Virmani" /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Krishang Virmani" /></a>
+<a href="https://twitter.com/VirmaniKrishang" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Krishang Virmani" /></a>
 </p>
 
 
