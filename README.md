@@ -49,7 +49,7 @@
 </p>
 
 
-### Databasse and Cloud
+### Database and Cloud
 <p align="left">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
