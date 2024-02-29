@@ -4,6 +4,8 @@
 
 **`A Passionate Machine Learning and Deep Learning Enthusiast`**
 
+<img align="right" alt="Coding" width="400" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG45ZG0zenQxNjQxNzBnazVpZjVnZ2p2YSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19">
+
 ---
 
 
